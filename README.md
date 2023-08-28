@@ -6,3 +6,4 @@ Projeto 'Reproduzindo a Listagem do YouTube com Grid Layout no CSS' proposto pel
 > - Neste projeto segui as orientações do arquivo do Figma disponibilizado no curso.
 
 > ## Link GitHubPages:
+> - https://marcoswinther.github.io/project-css-grid-listagem-videos-youtube/
