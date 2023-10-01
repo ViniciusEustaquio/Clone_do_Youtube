@@ -8,7 +8,7 @@ Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-## Preview:
+## 🖥 Preview:
 ![Imagem do Projeto](assets/img/projeto-grid-listagem-youtube.PNG)
 - Venha ver como ficou o projeto acessando [aqui nesse link do GithubPages](https://marcoswinther.github.io/project-css-grid-listagem-videos-youtube/)
 
